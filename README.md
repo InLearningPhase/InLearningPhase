@@ -35,7 +35,12 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=InLearningPhase&theme=radical&show_icons=true&hide=stars">
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=InLearningPhase&theme=radical&show_icons=true&hide=stars" />
+
+</details>
 
 </details>
 
