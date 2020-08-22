@@ -1,8 +1,10 @@
-### Hi there, I'm Tanesh Gupta 👋
+<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100" height="100" />
+</div>
 
-## I'm a CSE Student!
+### Hi there, I'm Tanesh Gupta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on Android Development
+- 🔭 I’m currently working on Android Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Kotlin
 - 🥅 2020 Goals: Become a Professional Android Developer
 - ⚡ Fun fact: I can spend an entire day sitting in front of my Laptop
@@ -27,8 +29,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 <br />
 <br />
@@ -38,7 +39,12 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=InLearningPhase&theme=radical&show_icons=true&hide=stars" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=InLearningPhase&theme=light&show_icons=true&hide=stars" />
+
+  <a href="https://github.com/InLearningPhase">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InLearningPhase&theme=light&hide_langs_below=1" />
+</a>
+
 
 </details>
 
