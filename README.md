@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100" height="100" />
+<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="300" height="200" />
 </div>
 
 ### Hi there, I'm Tanesh Gupta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
@@ -7,14 +7,14 @@
 - 🔭 I’m currently working on Android Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Kotlin
 - 🥅 2020 Goals: Become a Professional Android Developer
-- ⚡ Fun fact: I can spend an entire day sitting in front of my Laptop
+- ⚡ Fun fact: I can spend an entire day sitting in front of my Laptop <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 
 <br />
 
