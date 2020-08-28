@@ -2,12 +2,12 @@
 <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="300" height="200" />
 </div>
 
-### Hi there, I'm Tanesh Gupta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h2> Hi there, I'm Tanesh Gupta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
 
-- 🔭 I’m currently working on Android Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning Kotlin
-- 🥅 2020 Goals: Become a Professional Android Developer
-- ⚡ Fun fact: I can spend an entire day sitting in front of my Laptop <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+- 🔭  I’m currently working on: <strong>[Android Development]</strong> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱  I’m currently learning: <strong>[Kotlin]</strong> <img alt="Kotlin" width="14px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg"/>
+- 🥅  2020 Goals: Become a Professional Android Developer
+- ⚡  Fun fact: I can spend an entire day sitting in front of my Laptop <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 
 
 ### Connect with me:
@@ -15,8 +15,6 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -53,3 +51,5 @@
 [twitter]: https://twitter.com/TaneshGupta5?s=09
 [instagram]: https://www.instagram.com/taneshgupta88/?hl=en
 [linkedin]: https://www.linkedin.com/in/tanesh-gupta-0b21281a4/
+[Android Development]: https://developer.android.com/guide
+[Kotlin]: https://kotlinlang.org/
